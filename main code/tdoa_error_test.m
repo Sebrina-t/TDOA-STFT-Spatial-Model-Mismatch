@@ -502,7 +502,7 @@ grid on;
 box on;
 
 xlabel('TDOA Estimation Error, \epsilon_D (samples)');
-ylabel('Normalized Spatial-Model Mismatch');
+ylabel('Normalized Spatial-Model Error');
 
 legend( ...
     'Standard STFT', ...
